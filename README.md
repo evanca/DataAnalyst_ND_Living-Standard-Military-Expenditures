@@ -2423,7 +2423,7 @@ plt.show()
 ```
 
 
-![png](output_69_0.png)
+![png](output_69_1.png)
 
 
 
@@ -2559,7 +2559,7 @@ plt.show()
 ```
 
 
-![png](output_74_0.png)
+![png](output_74_1.png)
 
 
 
