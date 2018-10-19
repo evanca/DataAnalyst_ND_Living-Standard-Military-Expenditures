@@ -2422,14 +2422,8 @@ plt.title('Human Development Index (HDI) vs. Total health spending (% of GDP) by
 plt.show()
 ```
 
-    C:\Users\Ivanna\Anaconda3\lib\site-packages\mpl_toolkits\basemap\__init__.py:1708: MatplotlibDeprecationWarning: The axesPatch function was deprecated in version 2.1. Use Axes.patch instead.
-      limb = ax.axesPatch
-    C:\Users\Ivanna\Anaconda3\lib\site-packages\mpl_toolkits\basemap\__init__.py:1711: MatplotlibDeprecationWarning: The axesPatch function was deprecated in version 2.1. Use Axes.patch instead.
-      if limb is not ax.axesPatch:
-    
 
-
-![png](output_69_1.png)
+![png](output_69_0.png)
 
 
 
@@ -2564,14 +2558,8 @@ plt.title('Human Development Index (HDI) vs. Total health spending (% of GDP) by
 plt.show()
 ```
 
-    C:\Users\Ivanna\Anaconda3\lib\site-packages\mpl_toolkits\basemap\__init__.py:1708: MatplotlibDeprecationWarning: The axesPatch function was deprecated in version 2.1. Use Axes.patch instead.
-      limb = ax.axesPatch
-    C:\Users\Ivanna\Anaconda3\lib\site-packages\mpl_toolkits\basemap\__init__.py:1711: MatplotlibDeprecationWarning: The axesPatch function was deprecated in version 2.1. Use Axes.patch instead.
-      if limb is not ax.axesPatch:
-    
 
-
-![png](output_74_1.png)
+![png](output_74_0.png)
 
 
 
